@@ -33,3 +33,4 @@ defined('MOODLE_INTERNAL') || die();
 // This file contains any specific configuration settings for the format.
 // The default blocks layout for this course format:...
 $format['defaultblocks'] = ':search_forums,news_items,calendar_upcoming,recent_activity';
+//brami added to new
